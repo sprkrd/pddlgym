@@ -3,5 +3,9 @@ __pycache__
 .DS_Store
 *.egg-info
 *.pkl
-
+*~
+*.python-version
+#*
 _procedural_generation
+build
+dist
