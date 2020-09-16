@@ -1,4 +1,3 @@
-w
 (define (problem p095-microban-sequential) (:domain sokoban)
   (:objects
         dir-down - direction
